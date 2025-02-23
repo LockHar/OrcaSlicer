@@ -2066,7 +2066,7 @@ msgid "auto rotate current plate"
 msgstr "rotation automatique de la plaque actuelle"
 
 msgid "Delete Plate"
-msgstr "Supprimer le plateau"
+msgstr "Supprimer le plaque"
 
 msgid "Remove the selected plate"
 msgstr "Supprimer la plaque sélectionnée"
@@ -2102,7 +2102,7 @@ msgid "Lock"
 msgstr "Verrouiller"
 
 msgid "Edit Plate Name"
-msgstr "Modifier le nom du plateau"
+msgstr "Modifier le nom du plaque"
 
 msgid "Name"
 msgstr "Nom"
@@ -4164,7 +4164,9 @@ msgid ""
 "Is it %s%% or %s %s?\n"
 "YES for %s%%, \n"
 "NO for %s %s."
-msgstr "Est-ce %s%% ou %s %s ? OUI pour %s%%, NON pour %s %s."
+msgstr "Est-ce %s%% ou %s %s ?\n"
+"OUI pour %s%%, \n"
+"NON pour %s %s."
 
 #, boost-format
 msgid ""
